@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe0b1337-d8b5-4a05-84f4-699f30dabb3a" name="Changes" comment="Exercise 5 is ready.">
-      <change afterPath="$PROJECT_DIR$/Movies2/Movies2/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movies2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Movies2/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/WeatherApp/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/WeatherApp/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/WeatherApp/babel.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/WeatherApp/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/WeatherApp/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +22,7 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Movies2" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/WeatherApp" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -50,12 +54,13 @@
     "git-widget-placeholder": "<unknown>",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/JAMK/Mobile Application Development/mobile-exercises/Movies2",
+    "last_opened_file_path": "C:/mobile-exercises/WeatherApp",
     "settings.editor.selected.configurable": "AndroidSdkUpdater"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\mobile-exercises\WeatherApp" />
       <recent name="D:\JAMK\Mobile Application Development\mobile-exercises\Movies2" />
       <recent name="D:\JAMK\Mobile Application Development\mobile-exercises" />
       <recent name="D:\JAMK\Mobile Application Development\mobile-exercises\Movies" />
