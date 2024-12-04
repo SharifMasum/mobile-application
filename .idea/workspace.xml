@@ -7,11 +7,13 @@
     <list default="true" id="fe0b1337-d8b5-4a05-84f4-699f30dabb3a" name="Changes" comment="Exercise 5 is ready.">
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherApp/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/WeatherApp/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherApp/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/WeatherApp/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherApp/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/WeatherApp/babel.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherApp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/WeatherApp/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherApp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/WeatherApp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPlaces/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/MyPlaces/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPlaces/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/MyPlaces/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPlaces/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/MyPlaces/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPlaces/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyPlaces/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPlaces/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/MyPlaces/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPlaces/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/MyPlaces/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPlaces/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/MyPlaces/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +24,7 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/WeatherApp" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MyPlaces" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -42,30 +44,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "<unknown>",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/mobile-exercises/WeatherApp",
-    "settings.editor.selected.configurable": "AndroidSdkUpdater"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/mobile-exercises/MyPlaces/assets&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;AndroidSdkUpdater&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\mobile-exercises\MyPlaces\assets" />
       <recent name="C:\mobile-exercises\WeatherApp" />
       <recent name="D:\JAMK\Mobile Application Development\mobile-exercises\Movies2" />
       <recent name="D:\JAMK\Mobile Application Development\mobile-exercises" />
       <recent name="D:\JAMK\Mobile Application Development\mobile-exercises\Movies" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\mobile-exercises\MyPlaces\android" />
       <recent name="D:\JAMK\Mobile Application Development\mobile-exercises\Movies2" />
       <recent name="D:\JAMK\Mobile Application Development\mobile-exercises\Movies" />
     </key>
