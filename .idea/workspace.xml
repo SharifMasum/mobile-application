@@ -7,7 +7,6 @@
     <list default="true" id="fe0b1337-d8b5-4a05-84f4-699f30dabb3a" name="Changes" comment="Exercise 5 is ready.">
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LaunchMap/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/LaunchMap/App.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +17,7 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/LaunchMap" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -50,19 +49,20 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/mobile-exercises/MyPlaces&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/mobile-exercises/LaunchMap&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;AndroidSdkUpdater&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\mobile-exercises\LaunchMap" />
       <recent name="C:\mobile-exercises\MyPlaces" />
       <recent name="C:\mobile-exercises\MyPlaces\assets" />
       <recent name="C:\mobile-exercises\WeatherApp" />
       <recent name="D:\JAMK\Mobile Application Development\mobile-exercises\Movies2" />
-      <recent name="D:\JAMK\Mobile Application Development\mobile-exercises" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\mobile-exercises\TodoWithDatabase" />
       <recent name="C:\mobile-exercises\MyPlaces\android" />
       <recent name="D:\JAMK\Mobile Application Development\mobile-exercises\Movies2" />
       <recent name="D:\JAMK\Mobile Application Development\mobile-exercises\Movies" />
