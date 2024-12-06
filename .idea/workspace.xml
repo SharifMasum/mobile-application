@@ -7,6 +7,9 @@
     <list default="true" id="fe0b1337-d8b5-4a05-84f4-699f30dabb3a" name="Changes" comment="Exercise 5 is ready.">
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TurboModuleExample/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/TurboModuleExample/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TurboModuleExample/android/app/src/main/java/com/turbomoduleexample/MainApplication.kt" beforeDir="false" afterPath="$PROJECT_DIR$/TurboModuleExample/android/app/src/main/java/com/turbomoduleexample/MainApplication.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TurboModuleExample/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/TurboModuleExample/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,14 +20,14 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/TurboModuleExample" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Movies/.gitignore" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
