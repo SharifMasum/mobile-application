@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe0b1337-d8b5-4a05-84f4-699f30dabb3a" name="Changes" comment="Exercise 5 is ready.">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,18 +49,18 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/mobile-exercises/TurboModuleExample/android/app",
+    "last_opened_file_path": "C:/mobile-exercises/Bitcoin",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "AndroidSdkUpdater"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\mobile-exercises\TurboModuleExample\android\app" />
+      <recent name="C:\mobile-exercises\Bitcoin" />
       <recent name="C:\mobile-exercises\TurboModuleExample" />
+      <recent name="C:\mobile-exercises\TurboModuleExample\android\app" />
       <recent name="C:\mobile-exercises\LaunchMap" />
       <recent name="C:\mobile-exercises\MyPlaces" />
-      <recent name="C:\mobile-exercises\MyPlaces\assets" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\mobile-exercises\TodoWithDatabase" />
