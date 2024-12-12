@@ -15,10 +15,10 @@ const firebaseConfig = {
   apiKey: process.env.API_KEY,
   authDomain: process.env.AUTH_DOMAIN,
   projectId: "shoppinglist-85f6e",
-  storageBucket: "shoppinglist-85f6e.firebasestorage.app",
-  messagingSenderId: "480930662336",
-  appId: "1:480930662336:web:0624ab267162953da0ea25",
-  measurementId: "G-7ZMNFZ3FZT"
+  storageBucket: process.env.STORAGE_BUCKET,
+  messagingSenderId: process.env.MESSAGING_SENDER_ID,
+  appId: process.env.APP_ID,
+  measurementId: process.env.MEASUREMENT_ID
 };
 
 const app = initializeApp(firebaseConfig);
@@ -116,7 +116,7 @@ function App() {
       <div style={styles.listBox}>
         <List style={styles.list}>
           {items.map((item) => (
-            <Box style={styles.listItem}>
+            <Box key={item.id} style={styles.listItem}>
               <ListItem >
                 <ListItemText primary={item.name} style={{ flex: 2 }} />
                 <ListItemText primary={item.count} style={{ flex: 1 }} />
@@ -157,7 +157,7 @@ const styles = {
   inputBox: {
     display: 'flex',
     flexDirection: 'column',
-    Color: '#f9f9f9',
+    color: '#f9f9f9',
     backgroundColor: '#e6ee9c',
     padding: '10px',
     borderRadius: '5px',
@@ -173,7 +173,6 @@ const styles = {
   listItem: {
     display: 'flex',
     flexDirection: 'column',
-    Color: '#f9f9f9',
     backgroundColor: '#ffc107',
     fontWeight: 'bold',
     borderRadius: '5px',
